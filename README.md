@@ -75,3 +75,4 @@ attendance.exe      # Windows
 
 ## Author
 Vishal Nitin Chaure
+Yash Sudhir Shinde
